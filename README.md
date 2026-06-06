@@ -66,7 +66,6 @@ FUTURE_DS_02/
 <img src="dashboard/dashboard.png" width="100%">
 
 ---
----
 
 ## 🛠️ Technologies Used
 
