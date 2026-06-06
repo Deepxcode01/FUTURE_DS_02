@@ -39,20 +39,20 @@ The goal of Task 2 is to perform a comprehensive **Customer Retention & Churn An
 FUTURE_DS_02/
 │
 ├── dataset/
-│   └── telecom_churn_data.csv        # Dataset (1,500 customers, 18 features)
+│   └── telecom_churn_data.csv        
 │
 ├── notebook/
-│   └── Analysis.ipynb                # Full EDA + statistical analysis
+│   └── Analysis.ipynb                
 │
 ├── dashboard/
-│   ├── Dashboard.ipynb               # Interactive Plotly dashboard
-│   └── dashboard_preview.png         # Dashboard screenshot
+│   ├── Dashboard.ipynb               
+│   └── dashboard_preview.png         
 │
 ├── images/
-│   └── *.png                         # All exported chart images
+│   └── *.png                         
 │
 ├── insights/
-│   └── key_insights.md               # Business insights & recommendations
+│   └── key_insights.md               
 │
 ├── requirements.txt
 └── README.md
@@ -162,9 +162,9 @@ pandas | numpy | matplotlib | seaborn | plotly | jupyter
 
 ## 👩‍💻 Author
 
-**[Your Name Here]**  
-Data Science & Analytics Intern — Future Interns  
-🔗 [LinkedIn](#) | 🐙 [GitHub](#)
+**Deepak**  
+🎓 B.Tech in Artificial Intelligence  
+🏫 Delhi Skill and Entrepreneurship University (DSEU)
 
 ---
 
