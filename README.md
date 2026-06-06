@@ -58,6 +58,13 @@ FUTURE_DS_02/
 └── README.md
 ```
 
+# 📊 Dashboard Preview
+
+## 🚀 Interactive Customer Churn Dashboard
+
+<img src="dashboard/dashboard.png" width="100%">
+
+---
 ---
 
 ## 🛠️ Technologies Used
